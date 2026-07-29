@@ -4,7 +4,7 @@ description: "Self-contained oral cavity PORT module — surgical bed fusion, ma
 version: 1.0.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
 license: MIT
-nmetadata:
+metadata:
   hermes:
     tags: [head-neck, radiotherapy, port, oral-cavity, postoperative]
     related_skills: [neoadjuvant-deescalation]
@@ -495,7 +495,7 @@ CTV = "重建术前 GTV-P + 1 cm" 与 "手术缺损区/皮瓣 + 0.5 cm" 的**复
 
 | 切缘状态 | 距离 | CTV 外放 | 剂量 |
 |---------|------|---------|------|
-| 阴性 ≥5mm | ≥5mm | 0mm | 50-54 Gy |
+| 阴性 ≥5mm | ≥5mm | 0mm | 60 Gy（标准术床剂量） |
 | 近切缘 1-4mm | 1-4mm | +3-5mm | 56-60 Gy |
 | R1 | <1mm | +5-10mm | 60-66 Gy |
 | R2 | 大体残留 | +10-15mm | 66-70 Gy |
