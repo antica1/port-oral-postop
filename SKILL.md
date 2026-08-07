@@ -7,7 +7,7 @@ license: MIT
 nmetadata:
   hermes:
     tags: [head-neck, radiotherapy, port, oral-cavity, postoperative]
-    related_skills: [neoadjuvant-deescalation]
+    related_skills: [neoadjuvant-deescalation, tongue-fom-port-escalation]
     triggers_on: [口腔癌, 舌癌, 口底癌, 牙龈癌, 颊癌, 颊黏膜癌, 硬腭癌, RMT, 磨牙后三角, 唇癌, oral cavity, oral tongue, buccal, 口腔术后, 口腔PORT, 颊部术后, 舌部术后, 口底照射, 口腔靶区, 口腔靶区勾画, 皮瓣放疗, 下颌骨重建放疗, 口底铁律]
 
 ---
